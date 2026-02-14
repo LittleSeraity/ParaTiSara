@@ -72,11 +72,11 @@ window.addEventListener('resize', positionClockNumbers);
 
 // ===== MENSAJE DIARIO =====
 const messages = [
-  "TE AMOOO ILHAMMM",
-  "Te amo mi bebe 🌹",
-  "ISRMANNNNNN✨",
-  "Btata M9Lia💕",
-  "Eres mi novia?💝"
+  "TE AMO SARUQUI",
+  "TE AMO MI NIÑA 🌹",
+  "TE ADORO MI BICHITO✨",
+  "MI REINA, MI PRINCESA, MI TESORO💕",
+  "LA MAS BELLA DEL UNIVERSO💝"
 ];
 const dailyMessageSpan = document.querySelector(".daily-message");
 
@@ -108,3 +108,4 @@ function toggleMusic() {
 }
 
 if (musicBtn) musicBtn.addEventListener("click", toggleMusic);
+
